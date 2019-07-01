@@ -16,11 +16,11 @@ namespace Engine.Factories
 
             newWorld.AddLocation(-2, -1, "Farmer's Field",
                 "There are rows of corn growing here, with giant rats hiding between them.",
-                 "/Engine;component/Images/Locations/Home.png");
+                 "/Engine;component/Images/Locations/FarmFields.png");
 
             newWorld.AddLocation(-1, -1, "Farmer's House",
                 "This is the house of your neightbor, Farmer Ted",
-                "/Engine;component/Images/Locations/Home.png");
+                "/Engine;component/Images/Locations/Farmhouse.png");
 
             newWorld.AddLocation(0, -1, "Home", 
                 "This is your Home", 
